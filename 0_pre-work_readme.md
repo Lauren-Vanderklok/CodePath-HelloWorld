@@ -5,7 +5,7 @@ basic android app with custom text, backgroud and button to change color of text
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/eRDaB53" width=200><br>
+<img src="https://imgur.com/KTea8ic" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
